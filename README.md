@@ -4,7 +4,7 @@
 
 I spend half my time conducting research and half my time doing engineering. My research interest lies in 💻⎈🐳 **AI/DL** ☁️ **Natural Language Processing** 🌈    
 
-* 🧐   Interested in language representation learning & machine translation.
+* 🧐   Interested in language modeling & machine translation.
 * 💼   I'm a AI Research Engineer @ MoMo (M_Service).
 * 🎓   Pursuing PhD in Computer Science.
 * 💻   With 4 years' computer science and technology education and 3+ years' working experience.
