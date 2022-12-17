@@ -1,6 +1,26 @@
-### Connect with me
+# Hello there 👋
 
-<p align='center'> 
-<a href="https://www.facebook.com/tth.razent"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/facebook.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/tthieu2206/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://scholar.google.com/citations?hl=en&user=atONCyEAAAAJ"><img height="30" src="https://raw.githubusercontent.com/justinphan3110/justinphan3110/master/icons/google_scholar.png"></a>&nbsp;&nbsp;
+![](https://github.com/heraclex12/heraclex12/blob/master/icons/header_1.png)
+
+I spend half my time conducting research and half my time doing engineering. My research interest lies in 💻⎈🐳 **AI/DL** ☁️ **Natural Language Processing** 🌈    
+
+* 🧐   Interested in language representation learning & machine translation.
+* 💼   I'm a AI Research Engineer @ MoMo (M_Service).
+* 🎓   Pursuing PhD in Computer Science.
+* 💻   With 4 years' computer science and technology education and 3+ years' working experience.
+* ✍🏻   I write some research publications on Natural Language Processing. Check out my [portfolio]([https://halfrost.com/](https://heraclex12.github.io/))
+
+  
+<hr>
+<p align="center">
+  <i>Take a look at my repositories and let's get in touch!</i>
+
+<p align="center">
+<a href= "https://www.facebook.com/tth.razent"><img src="https://img.icons8.com/material-outlined/24/null/facebook-f.png"/></a>
+<a href= "https://github.com/halfrost/Halfrost-Field/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
+<a href= "https://www.linkedin.com/in/hieutt0"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+<a href= "https://scholar.google.com/citations?hl=en&user=atONCyEAAAAJ"><img src="https://img.icons8.com/material-outlined/27/null/google-scholar.png"/></a>
+<a href= "https://heraclex12.github.io/"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
+</p>
+
+---
