@@ -8,7 +8,7 @@ I spend half my time conducting research and half my time doing engineering. My 
 * 💼   I'm a AI Research Engineer @ MoMo (M_Service).
 * 🎓   Pursuing PhD in Computer Science.
 * 💻   With 4 years' computer science and technology education and 3+ years' working experience.
-* ✍🏻   I write some research publications on Natural Language Processing. Check out my [portfolio]([https://halfrost.com/](https://heraclex12.github.io/))
+* ✍🏻   I write some research publications on Natural Language Processing. Check out my [Portfolio](https://heraclex12.github.io/)
 
   
 <hr>
