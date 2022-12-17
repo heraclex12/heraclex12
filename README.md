@@ -1,6 +1,6 @@
 # Hello there 👋
 
-![](https://github.com/heraclex12/heraclex12/blob/master/header_1.png)
+![](https://github.com/heraclex12/heraclex12/blob/main/header_1.png)
 
 I spend half my time conducting research and half my time doing engineering. My research interest lies in 💻⎈🐳 **AI/DL** ☁️ **Natural Language Processing** 🌈    
 
