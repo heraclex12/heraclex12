@@ -5,10 +5,10 @@
 I spend half my time conducting research and half my time doing engineering. My research interest lies in 💻⎈🐳 **AI/DL** ☁️ **Natural Language Processing (NLP)** 🌈    
 
 * 🧐   Interested in language modeling & machine translation.
-* 💼   I'm a AI Research Engineer @ MoMo (M_Service).
+* 💼   I'm an AI Research Engineer @ MoMo (M_Service).
 * 🎓   Looking for PhD scholarships in Computer Science.
 * 💻   With 4 years' computer science and technology education and 3+ years' working experience.
-* ✍🏻   I write some blogs and research publications on NLP. Check out my [Portfolio](https://heraclex12.github.io/)
+* ✍🏻   I write some blogs and research publications on AI/NLP. Check out my [Portfolio](https://heraclex12.github.io/)
 
   
 <hr>
