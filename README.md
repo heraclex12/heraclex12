@@ -7,8 +7,8 @@ I spend half my time conducting research and other half doing engineering. My re
 * 🧐   Interested in language modeling & machine translation.
 * 💼   I'm an AI Research Engineer @ MoMo (M_Service).
 * 🎓   Looking for PhD scholarships in Computer Science.
-* 💻   With 4 years' computer science and technology education and 3+ years' working experience.
-* ✍🏻   I write some blogs and research publications on AI/NLP. Check out my [Portfolio](https://heraclex12.github.io/)
+* 💻   With 4 years' computer science education and 3+ years' working experience.
+* ✍🏻   I write some blogs and research papers on AI/NLP. Check out my [Portfolio](https://heraclex12.github.io/)
 
   
 <hr>
