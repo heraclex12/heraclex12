@@ -2,7 +2,7 @@
 
 ![](https://github.com/heraclex12/heraclex12/blob/main/header_1.png)
 
-I spend half my time conducting research and half my time doing engineering. My research interest lies in 💻⎈🐳 **AI/DL** ☁️ **Natural Language Processing (NLP)** 🌈    
+I spend half my time conducting research and other half doing engineering. My research interest lies in 💻⎈🐳 **AI/DL** ☁️ **Natural Language Processing (NLP)** 🌈    
 
 * 🧐   Interested in language modeling & machine translation.
 * 💼   I'm an AI Research Engineer @ MoMo (M_Service).
