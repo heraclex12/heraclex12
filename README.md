@@ -5,7 +5,7 @@
 I spend half my time conducting research and other half doing engineering. My research interest lies in 💻⎈ **Large Language Models (LLMs)** 🐳 **Code Generation** ☁️ **NLP** 🌈 
 
 * 🧐   Interested in large language models & code generation.
-* 💼   I'm an ML Engineer @ BLACKBOX AI.
+* 💼   I'm an ML Engineer @ [BLACKBOX AI](https://useblackbox.io/).
 * 🎓   Looking for PhD scholarships in Computer Science.
 * 💻   With 4 years' computer science education and 4+ years' working experience.
 * ✍🏻   I write some blogs and research papers on AI/NLP. Check out my [Portfolio](https://heraclex12.github.io/)
